@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 
 class Details extends Component {
+
     render() {
         return (
             <div>
-                <h3>ITs details</h3>
+                 <h1>now details should work</h1>
             </div>
         );
     }

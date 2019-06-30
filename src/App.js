@@ -18,7 +18,7 @@ function App() {
         <Route path="/details" component={Details}></Route>
         <Route path="/shoppingcart" component={ShoppingCart}></Route>
         <Route component={Default}></Route>
-        
+
       </Switch>
     </React.Fragment>
   );
